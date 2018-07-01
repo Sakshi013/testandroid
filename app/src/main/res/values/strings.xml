@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidTest</string>
+    <string name="TODO">TODO</string>
+    <string name="hii">TextView</string>
+    <string name="hello">TextView</string>
+    <string name="text">Text</string>
+</resources>
